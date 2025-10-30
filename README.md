@@ -1,0 +1,2 @@
+# Spatial-Photonic-Ising-Model-and-Optical-Spin-Glass-Based-on-Diffraction-Computing-Optimizer
+Programming language is Python, based on torch and munpy. It precisely models the light field propagation between multiple planes, enabling the research of spatial light Ising machines and spin glasses. It assists the Markov Monte Carlo algorithm by optimizing the Hamiltonian of the QUBO problem through lens-based Fourier transformation.
