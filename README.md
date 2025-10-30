@@ -20,11 +20,19 @@ Programming language is Python, based on torch and munpy. It precisely models th
 
 # An example of visualizing the results of the project operation
 *The illustrative examples available for the operation of the project include the optical path corresponding to the simulation system, the definition of the Ising model, the solution of the Ising problem, as well as the solution and research of more complex spin glass systems.*
+## Fig 1
+**The following diagram clearly illustrates our calculation process: light waves propagate from the liquid crystal spatial light modulator to the lens, and then continue to propagate from the lens to the camera's photoelectric conversion plane.**
 ![image](https://github.com/Cherish0925/Spatial-Photonic-Ising-Model-and-Optical-Spin-Glass-Based-on-Diffraction-Computing-Optimizer/blob/main/images/Experimental_architecture_diagram.png?raw=true)
+## Fig 2
+**The following figure clearly illustrates the definition of an Ising problem where all coupling interactions are equal to 1, and the rank of the coupling interaction matrix is 1.**
 ![image](https://github.com/Cherish0925/Spatial-Photonic-Ising-Model-and-Optical-Spin-Glass-Based-on-Diffraction-Computing-Optimizer/blob/main/images/Ising_Model_Problem_Definition.png?raw=true)
+## Fig 3
+**The following figure clearly illustrates the solution process of the aforementioned Ising model. The final optimized result demonstrates that the Hamiltonian has finally converged to the global optimum.**
 ![image](https://github.com/Cherish0925/Spatial-Photonic-Ising-Model-and-Optical-Spin-Glass-Based-on-Diffraction-Computing-Optimizer/blob/main/images/Ising_Model_Problem_Optimization.png?raw=true)
+## Fig 4
+**The following figure clearly illustrates the definition and optimization of a more complex two-dimensional spin glass system. It also observes a series of key phenomena of the autocorrelation function of spin configuration in different configurations.**
 ![image](https://github.com/Cherish0925/Spatial-Photonic-Ising-Model-and-Optical-Spin-Glass-Based-on-Diffraction-Computing-Optimizer/blob/main/images/Spin_Glass_Optical_Computing_Sim.png?raw=true)
 
 # Detail
-If you want to have a deeper understanding of this project, you can visit the author's personal blog on Zhihu to check it out.
+**If you want to have a deeper understanding of this project, you can visit the author's personal blog on Zhihu to check it out.**
 https://zhuanlan.zhihu.com/p/1966619744913298117
