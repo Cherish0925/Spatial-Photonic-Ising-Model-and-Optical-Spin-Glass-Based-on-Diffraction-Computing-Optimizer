@@ -33,6 +33,10 @@ Programming language is Python, based on torch and munpy. It precisely models th
 **The following figure clearly illustrates the definition and optimization of a more complex two-dimensional spin glass system. It also observes a series of key phenomena of the autocorrelation function of spin configuration in different configurations.**
 ![image](https://github.com/Cherish0925/Spatial-Photonic-Ising-Model-and-Optical-Spin-Glass-Based-on-Diffraction-Computing-Optimizer/blob/main/images/Spin_Glass_Optical_Computing_Sim.png?raw=true)
 
+# Simple instructions for use
+- If you want to use the aforementioned multi-plane spatial light computing system to obtain the Hamiltonian of a QUBO Ising problem and optimize the Hamiltonian using the simulated annealing method, then you only need to replace the number of spins and the coupling interaction matrix of the problem you need to solve with the corresponding parts in the corresponding files.
+- If you want to use the aforementioned multi-plane spatial light computing system to observe the key parameters and phenomena in some spatial light spin glass systems, then carry out a second DIY based on the existing files in the project.
+
 # Detail
 **If you want to have a deeper understanding of this project, you can visit the author's personal blog on Zhihu to check it out.**
 https://zhuanlan.zhihu.com/p/1966619744913298117
